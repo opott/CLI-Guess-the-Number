@@ -32,7 +32,6 @@ def main():
 
     print("I am thinking of a number between " + str(minint) + " and " + str(maxint))
     print("You have as many chances as you need to guess the number.")
-    print("DEBUG: Answer is " + str(number))
 
     print("When you're ready, enter your first guess.")
 
